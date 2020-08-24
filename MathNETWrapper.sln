@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathNETWrapper", "MathNETWrapper\MathNETWrapper.csproj", "{125564E9-1E02-4B49-96B5-70B8559E80EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTest", "ConsoleTest\ConsoleTest.csproj", "{1EAE31A3-6AB6-4523-A30E-03C5FA2AEE59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{125564E9-1E02-4B49-96B5-70B8559E80EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{125564E9-1E02-4B49-96B5-70B8559E80EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{125564E9-1E02-4B49-96B5-70B8559E80EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{125564E9-1E02-4B49-96B5-70B8559E80EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EAE31A3-6AB6-4523-A30E-03C5FA2AEE59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EAE31A3-6AB6-4523-A30E-03C5FA2AEE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EAE31A3-6AB6-4523-A30E-03C5FA2AEE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EAE31A3-6AB6-4523-A30E-03C5FA2AEE59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18F97BFA-DA09-4912-8CFD-8C058215C9D9}
+	EndGlobalSection
+EndGlobal
